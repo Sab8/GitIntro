@@ -1,9 +1,9 @@
 Un 
 Fichier 
 exemple
-pour 
+conflitconflit
 essayer 
-de 
-provoquer 
+de des petits conflits
+provoquecoucoucestisa
 des 
 conflits 
